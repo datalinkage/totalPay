@@ -1,0 +1,14 @@
+{
+    "name": "datalinkage/totalpay",
+    "description": "微信支付、支付宝支付",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "李益达",
+            "email": "ekey.lee@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
